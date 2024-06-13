@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to TwoShades' Portfolio
 
-Hey there! I’m Samuel Rivest, a Game Developer and Mobile App Enthusiast based in Montreal.
+Test.. sHey there! I’m Samuel Rivest, a Game Developer and Mobile App Enthusiast based in Montreal.
 
 ## Featured Projects
 - [Waddle Runner](projects/waddle-runner.html): A Unity-based penguin adventure.
