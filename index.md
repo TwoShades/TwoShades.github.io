@@ -12,19 +12,19 @@ Test.. sHey there! I’m Samuel Rivest, a Game Developer and Mobile App Enthusia
 - [A Fool’s Quest](projects/fools-quest.html): A 2D turn-based RPG.
 - [Spooky Security Camera Game](projects/spooky-security-camera.html): Anomaly detection game.
 
-[More Projects](projects.html)
+[More Projects](pages/projects.html)
 
 ## Latest Blog Posts
-- [Blog Post Title](blog/post-title.html)
+- [Blog Post Title](pages/blog/post-title.html)
 
-[Read the Blog](blog.html)
+[Read the Blog](pages/blog.html)
 
 ## About Me
 Learn more about my journey and what drives me.
 
-[About Samuel](about.html)
+[About Samuel](pages/about.html)
 
 ## Get In Touch
 Feel free to reach out for collaborations or just to say hi!
 
-[Contact](contact.html)
+[Contact](pages/contact.html)
